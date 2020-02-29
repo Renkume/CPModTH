@@ -647,13 +647,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm usually working all the time, so it's really nice to do something like this."
+            "Text": "ปกติฉันทำงานตลอดเวลาเลย, งั้นมันก็ดีจริงๆนะที่ได้ทำอะไรแบบนี้"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Not bad! I wonder if they have any merchandise I could stock..."
+            "Text": "ไม่เลว! I wonder if they have any merchandise I could stock..."
           }
         },
         "ID": "reaction_2"
@@ -718,7 +718,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was really interesting. I liked the raccoons the best... they're so cute!$h"
+            "Text": "น่าสนใจจริงๆ. ฉันชอบแร็คคูนที่สุดเลย... ฉันชอบแร็คคูนที่สุดเลย พวกมันน่ารัก!$h"
           }
         },
         "ID": "reaction_3"
@@ -731,12 +731,12 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I love horror movies... I hope it's scary!$h"
+            "Text": "ฉันชอบหนังสยองขวัญมาก... หวังว่ามันจะน่ากลัว!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/shake Abigail 3000/pause 500/message \"Abigail is giggling!\"",
-            "Text": "Haha! It's not scary, but I love it.$h"
+            "Text": "ฮ่าฮ่า! มันไม่น่ากลัวเลย, แต่ชั้นรักมันนะ.$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -754,7 +754,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey! Thanks for inviting me, I love going to the movies.$h"
+            "Text": "นี่! ขอบคุณที่ชวนฉันมานะ, ฉันชอบไปดูหนังมากๆเลย.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -778,12 +778,12 @@
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wake me up if anything interesting happens.$6"
+            "Text": "ถ้ามีอะไรน่าสนใจก็ปลุกฉันด้วยนะ$6"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*yawn*... that was pretty boring, wasn't it?$6"
+            "Text": "*yawn*... หนังมันค่อนข้างจะน่าเบื่อเลย, ใช่ไหม?$6"
           }
         },
         "ID": "reaction_6"
@@ -905,12 +905,12 @@
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/shake Harvey 3000/pause 500/message \"Harvey is shaking!\"",
-            "Text": "I'm scared!$8"
+            "Text": "ฉันกลัวอะ!$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I have a fear of heights, so those soaring aerial shots really got to me... Still, I had a good time overall.$h"
+            "Text": "ฉันกลัวความสูง, so those soaring aerial shots really got to me... Still, I had a good time overall.$h"
           }
         },
         "ID": "reaction_3"
